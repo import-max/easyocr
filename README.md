@@ -4,6 +4,7 @@ easyocr을 활용하여 한글로 이루어진 데이터를 텍스트로 변환�
 
 references 
 
+* pdfplumber
 * deep-text-recognition-benchmark
 * TextGenerator
 * EasyOCR
